@@ -1,0 +1,7 @@
+.temperature{
+  margin-top: 300rpx;
+  text-align: center;
+  font-size: 200rpx;
+  line-height:280rpx;/*1.4times font-size */
+  opacity: 0.8;
+}
